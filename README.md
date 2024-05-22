@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=debthomaz&show_icons=true&theme=dracula" height="130" alt="stats graph"  />
 </div>
 
+###
 
 <p align="left">
 <a href="https://linkedin.com/in/dmthomaz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dmthomaz" height="20" width="75" /></a>
