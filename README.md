@@ -1,4 +1,4 @@
-<h1 align="center">Hello stranger!</h1>
+<h1 align="center"></h1>
 
 ###
 
