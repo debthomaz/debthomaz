@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img align="right" height="400" src="https://64.media.tumblr.com/993256fb91609ad0c5fe5bed4dc9fcfe/595ef82b863b505d-f1/s400x600/f56f8daa9e0090d6e30237a35232809734d8bc09.gifv"  />
+  <img align="right" height="500" src="https://64.media.tumblr.com/993256fb91609ad0c5fe5bed4dc9fcfe/595ef82b863b505d-f1/s400x600/f56f8daa9e0090d6e30237a35232809734d8bc09.gifv"  />
   <h3 align="left">-🐍 I'm a Python Developer<br>-🤖 Working with AI<br>-🎓 Graduated in Physics<br>-✨ Who loves art, fashion, cinema, music and many other things </h3>  
 </div>
 
@@ -15,12 +15,12 @@
 </div>
 
 
-<p align="right">
-<a href="https://twitter.com/debrathomaz" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="debrathomaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dmthomaz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dmthomaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14735471/débora-thomaz" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="/14735471" height="30" width="40" /></a>
-<a href="https://medium.com/@dborathomaz" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@dborathomaz" height="30" width="40" /></a>
-<a href="https://instagram.com/debrathomaz" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="debrathomaz" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/dmthomaz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dmthomaz" height="30" width="75" /></a>
+<a href="https://stackoverflow.com/users/14735471/débora-thomaz" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="/14735471" height="30" width="95" /></a>
+<a href="https://medium.com/@dborathomaz" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@dborathomaz" height="30" width="75" /></a>
+<a href="https://instagram.com/debrathomaz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="debrathomaz" height="30" width="75" /></a>
+<a href="https://twitter.com/debrathomaz" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="debrathomaz" height="30" width="40" /></a>
 </p>
 
 
