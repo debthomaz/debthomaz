@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img align="right" height="420" src="https://64.media.tumblr.com/993256fb91609ad0c5fe5bed4dc9fcfe/595ef82b863b505d-f1/s400x600/f56f8daa9e0090d6e30237a35232809734d8bc09.gifv"  />
+  <img align="right" height="410" src="https://64.media.tumblr.com/993256fb91609ad0c5fe5bed4dc9fcfe/595ef82b863b505d-f1/s400x600/f56f8daa9e0090d6e30237a35232809734d8bc09.gifv"  />
   <h3 align="left">-🐍 I'm a Python Developer<br>-🤖 Working with AI<br>-🎓 Graduated in Physics<br>-✨ Who loves art, fashion, cinema, music and many other things </h3>  
 </div>
 
