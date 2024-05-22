@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="50" src="https://64.media.tumblr.com/8ac4886d9c5f0f3044c82c04cd67d60e/3a923a1003fbe6ff-41/s250x400/c57d5b1a1557a93d1822f7cd3b04e37913037b38.gifv"/>
-  <img height="50" src="https://64.media.tumblr.com/8ac4886d9c5f0f3044c82c04cd67d60e/3a923a1003fbe6ff-41/s250x400/c57d5b1a1557a93d1822f7cd3b04e37913037b38.gifv"/>
-  <img height="50" src="https://64.media.tumblr.com/8ac4886d9c5f0f3044c82c04cd67d60e/3a923a1003fbe6ff-41/s250x400/c57d5b1a1557a93d1822f7cd3b04e37913037b38.gifv"/>
-</div>
-
-###
 <div>
   <img align="right" height="400" src="https://64.media.tumblr.com/993256fb91609ad0c5fe5bed4dc9fcfe/595ef82b863b505d-f1/s400x600/f56f8daa9e0090d6e30237a35232809734d8bc09.gifv"  />
   <h3 align="left">-🐍 I'm a Python Developer<br>-🤖 Working with AI<br>-🎓 Graduated in Physics<br>-✨ Who loves art, fashion, cinema, music and many other things </h3>  
