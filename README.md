@@ -25,7 +25,7 @@
 <p align="right">
 <a href="https://twitter.com/debrathomaz" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="debrathomaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dmthomaz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dmthomaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users//14735471" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="/14735471" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14735471/débora-thomaz" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="/14735471" height="30" width="40" /></a>
 <a href="https://medium.com/@dborathomaz" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@dborathomaz" height="30" width="40" /></a>
 <a href="https://instagram.com/debrathomaz" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="debrathomaz" height="30" width="40" /></a>
 </p>
