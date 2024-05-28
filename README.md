@@ -33,6 +33,8 @@
 
 ###
 
+<h1 align="center"></h1>
+
 <p align="center">
   <a href="https://linkedin.com/in/dmthomaz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dmthomaz" height="30" width="110" /></a>
   <a href="https://stackoverflow.com/users/14735471/débora-thomaz" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="/14735471" height="30" width="150" /></a>
