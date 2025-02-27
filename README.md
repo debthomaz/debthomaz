@@ -3,15 +3,15 @@
 ###
 
 <div>
-  <h3 align="left">🐍 I'm a Python Developer<br>🤖 Working with AI and<br>👨‍💻 Analyzing Data in Localiza&Co <br>🎓 Graduated in Physics<br>✨ Who loves art, fashion, cinema, music and many other things </h3>  
+  <h3 align="left">🐍 I'm a Python Developer<br>👨‍💻 AI & Data at Localiza&Co <br>🎓 Graduated in Physics<br>✨ Who loves art, fashion, cinema, music and many other things </h3>  
 </div>
 
 ###                                                                               
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> 
-  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/notion-icon-logo-D1D5998962-seeklogo.com.png" alt="notion" width="25" height="25"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
@@ -19,9 +19,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="25" height="25"/> </a> 
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="25" height="15"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/logos/flask.svg" alt="flask" width="25" height="25"/> </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/logos/streamlit.svg" alt="streamlit" width="25" height="15"/> </a> 
+  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/cib/notion.svg" alt="notion" width="25" height="25"/> </a> 
 </p>
 
 ###
