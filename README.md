@@ -19,9 +19,13 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/logos/flask.svg" alt="flask" width="25" height="25"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/logos/flask.svg" alt="flask" width="25" height="25"/> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/skill-icons/gcp-light.svg" alt="gcp" width="25" height="25"/> </a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/logos/streamlit.svg" alt="streamlit" width="25" height="15"/> </a> 
-  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/cib/notion.svg" alt="notion" width="25" height="25"/> </a> 
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/10eb6a61-8eb8-46f4-93da-d2d52250cbec" alt="dbt" width="25" height="25"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ea64cd0b-d3a6-4c92-a8f8-31a534a7939b" alt="aws" width="25" height="25"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/269931ae-f631-476b-893b-528c0f9b1f51" alt="azure" width="25" height="25"/> </a>
+  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"> <img src="https://files.svgcdn.io/cib/notion.svg" alt="notion" width="25" height="25"/> </a>
 </p>
 
 ###
