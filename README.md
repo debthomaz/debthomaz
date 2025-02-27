@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <h3 align="left">-🐍 I'm a Python Developer<br>-🤖 Working with AI<br>-🎓 Graduated in Physics<br>-✨ Who loves art, fashion, cinema, music and many other things </h3>  
+  <h3 align="left">🐍 I'm a Python Developer<br>🤖 Working with AI and<br>👨‍💻 Analyzing Data in Localiza&Co <br>🎓 Graduated in Physics<br>✨ Who loves art, fashion, cinema, music and many other things </h3>  
 </div>
 
 ###                                                                               
