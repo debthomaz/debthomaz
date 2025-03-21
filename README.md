@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <h3 align="left">🐍 I'm a Python Developer <br>👨‍💻 AI & Data at Localiza&Co <br>🎓 Bachelor Degree in Physics <br>🐍 Helping organize Python events in MG <<a href="https://github.com/pythonsudeste">@pythonsudeste</a> <a href="https://github.com/pythonmg">@pythonmg</a>> <br>✨ Who loves art, fashion, cinema, music and many other things </h3>  
+  <h3 align="left">🐍 I'm a Python Developer <br>👨‍💻 AI & Data at Localiza&Co <br>🎓 Bachelor Degree in Physics <br>🐍 Hosting Python events in MG <<a href="https://github.com/pythonsudeste">@pythonsudeste</a> <a href="https://github.com/pythonmg">@pythonmg</a>> <br>✨ Who loves art, fashion, cinema, music and many other things </h3>  
 </div>
 
 ###                                                                               
