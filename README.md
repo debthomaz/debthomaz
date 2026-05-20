@@ -39,3 +39,7 @@
   <a href="https://instagram.com/debrathomaz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="debrathomaz" height="30" width="100" /></a>
   <a href="https://t.me/debrathomaz" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="debrathomaz" height="30" width="90" /></a>
 </p>
+
+
+<img width="736" height="736" alt="f623eb5a3c9f4315b4d3d04da55564dc" src="https://github.com/user-attachments/assets/d213c42a-21fe-4004-8a34-9455925d49c8" />
+</img>
